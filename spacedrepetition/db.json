@@ -1,0 +1,40 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Geography",
+      "cards": [
+        {
+          "id": 1,
+          "question": "What is the capital of France?",
+          "answer": "Paris",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "question": "What is the capital of Germany?",
+          "answer": "Berlin",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Math",
+      "cards": [
+        {
+          "id": 3,
+          "question": "What is 2+2?",
+          "answer": "4",
+          "rating": null
+        },
+        {
+          "id": 4,
+          "question": "What is 3*3?",
+          "answer": "9",
+          "rating": null
+        }
+      ]
+    }
+  ]
+}
