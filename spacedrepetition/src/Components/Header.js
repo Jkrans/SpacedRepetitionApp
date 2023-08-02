@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBrain } from '@fortawesome/free-solid-svg-icons';
-import Button from './Button';
+
 
 
 const Header = ({title}) => {
